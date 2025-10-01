@@ -8,10 +8,10 @@ The PBIX file is **not shared publicly** to protect the dataset, but the screens
 
 ## 🖼️ Dashboard Snapshots  
 
-### Dashboard 1 – Index Overview  
+### Dashboard 1 – Customer Demographics 
 ![Index Overview](./screenshot/Dashboard2.png)  
 
-### Dashboard 2 – Follow-Up Dashboard  
+### Dashboard 2 – Churn Overview Dashboard  
 ![Follow-Up Dashboard](./screenshot/Dashboard3.png)  
 
 ---
